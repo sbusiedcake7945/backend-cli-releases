@@ -2,4 +2,7 @@
 realeases for backend-cli
 
 ## linux releases
-[release 1](https://github.com/sbusiedcake7945/backend-cli-releases/blob/main/backend-cli)
+[release 1](ELF)
+
+## windows releases
+[backend-cli.exe]()
